@@ -94,3 +94,5 @@ _이텔릭_
 ### 이미지(images)
 
 ![naver](https://s.pstatic.net/static/www/mobile/edit/20221214/cropImg_728x360_112938033356218664.jpeg)
+
+![box](images/ive.jpg)
